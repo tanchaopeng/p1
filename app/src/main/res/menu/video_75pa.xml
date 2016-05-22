@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="日韩"
+        android:id="@+id/rihan_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+
+    <item android:title="自拍"
+        android:id="@+id/zipai_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+
+    <item android:title="三级"
+        android:id="@+id/sanji_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+
+    <item android:title="动漫"
+        android:id="@+id/dongman_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item android:title="制服"
+        android:id="@+id/zhifu_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item android:title="巨乳"
+        android:id="@+id/juru_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item android:title="异族"
+        android:id="@+id/yizu_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item android:title="另类"
+        android:id="@+id/linglei_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item android:title="乱伦"
+        android:id="@+id/luanlun_75pa"
+        android:showAsAction="never"
+        android:orderInCategory="100"/>
+</menu>
