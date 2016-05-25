@@ -20,9 +20,12 @@ public class StringHelper {
         int x=source.indexOf(start)+start.length();
         if (x==-1)
             return null;
-        int y=source.indexOf(end,x);
-        if (y==-1)
-            return null;
+        else
+        {
+            int y=source.indexOf(end,x);
+            if (y==-1)
+                y=start.length();
+        }    
         return source.substring(x,y);
     }
 
